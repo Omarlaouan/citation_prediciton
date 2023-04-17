@@ -55,7 +55,7 @@ The `code_clean.ipynb` notebook contains cleaned and commented code for the mach
 
 ## Visualization
 
-The `viz` folder contains a Tableau visualization of the citation network.
+The `viz` folder contains a Tableau visualization with interesting insights about the citation network.
 
 ## Methods Used
 The following machine learning methods are used for this project:
