@@ -19,7 +19,7 @@ The goal of this project is to apply machine learning/artificial intelligence te
 
 The project has the following structure:
 
-\```
+bash```
 .
 ├── README.md
 ├── Project presentation - citation prediction.pdf
