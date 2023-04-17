@@ -8,6 +8,7 @@ The project has the following structure:
 
 ```bash
 .
+├── README.md
 ├── code_clean.ipynb
 ├── data
 │   ├── processed
