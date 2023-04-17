@@ -9,6 +9,7 @@ The project has the following structure:
 ```bash
 .
 ├── README.md
+├── Project presentation - citation prediction.pdf
 ├── code_clean.ipynb
 ├── data
 │   ├── processed
