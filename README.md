@@ -19,7 +19,7 @@ The goal of this project is to apply machine learning/artificial intelligence te
 
 The project has the following structure:
 
-bash```
+```bash
 .
 ├── README.md
 ├── Project presentation - citation prediction.pdf
@@ -44,7 +44,7 @@ bash```
 │   └── abstracts_emb.json
 └── viz
     └── tableau viz.twb
-\```
+```
 
 ## Dataset
 
