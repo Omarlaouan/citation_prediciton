@@ -7,9 +7,9 @@ The goal of this project is to apply machine learning/artificial intelligence te
 The dataset contains the following files:
 
 1. `edgelist.txt`: a citation network created from papers published at machine learning, artificial intelligence, data mining, and natural language processing venues. Nodes correspond to papers, while edges represent citation relationships. The graph is undirected.
-2. abstracts.txt: it contains the abstracts of the papers.
-3. authors.txt: this file contains the authors of the papers.
-4. test.txt: this file contains 106,692 unordered node pairs. The goal is to predict if there is an edge between the two elements of each pair or not.
+2. `abstracts.txt`: it contains the abstracts of the papers.
+3. `authors.txt`: this file contains the authors of the papers.
+4. `test.txt`: this file contains 106,692 unordered node pairs. The goal is to predict if there is an edge between the two elements of each pair or not.
 
 ## Methods Used
 The following machine learning methods are used for this project:
