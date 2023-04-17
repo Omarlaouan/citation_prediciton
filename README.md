@@ -1,13 +1,25 @@
 # Citation Prediction between Research Papers
 
-## Overview
-The goal of this project is to apply machine learning/artificial intelligence techniques to the link prediction problem of whether a research paper cites another research paper. The citation network consists of several thousands of research papers, along with their abstracts and their lists of authors. The dataset was taken from machine learning, artificial intelligence, data mining, and natural language processing conferences and journals. The project aims to use edge information to learn the parameters of a classifier and then to use the classifier to predict whether two nodes are linked by an edge or not.
-[Here is the detailled presentation of the project](./Project%20presentation%20-%20citation%20prediction.pdf)
+Table of Contents
+-----------------
+
+1. [Introduction](#introduction)
+2. [Repo Structure](#repo-structure)
+3. [Dataset](#dataset)
+4. [Code](#code)
+5. [Visualization](#visualization)
+6. [Methods Used](#methods-used)
+7. [Future Work](#future-work)
+
+## Introduction
+
+The goal of this project is to apply machine learning/artificial intelligence techniques to the link prediction problem of whether a research paper cites another research paper. The citation network consists of several thousands of research papers, along with their abstracts and their lists of authors. The dataset was taken from machine learning, artificial intelligence, data mining, and natural language processing conferences and journals. The project aims to use edge information to learn the parameters of a classifier and then to use the classifier to predict whether two nodes are linked by an edge or not. [Here is the detailed presentation of the project](./Project%20presentation%20-%20citation%20prediction.pdf)
 
 ## Repo Structure
+
 The project has the following structure:
 
-```bash
+\```
 .
 ├── README.md
 ├── Project presentation - citation prediction.pdf
@@ -32,7 +44,7 @@ The project has the following structure:
 │   └── abstracts_emb.json
 └── viz
     └── tableau viz.twb
-```
+\```
 
 ## Dataset
 
@@ -54,13 +66,14 @@ In addition, the `doc2vec` folder contains two trained Doc2Vec models for the ab
 
 ## Code
 
-The `code_clean.ipynb` notebook contains cleaned and commented code for the machine learning models used in the project, including Logistic Regression, XgBoost, and MLP. 
+The `code_clean.ipynb` notebook contains cleaned and commented code for the machine learning models used in the project, including Logistic Regression, XgBoost, and MLP.
 
 ## Visualization
 
 The `viz` folder contains a Tableau visualization with interesting insights about the citation network.
 
 ## Methods Used
+
 The following machine learning methods are used for this project:
 - Logistic Regression
 - XGBoost
