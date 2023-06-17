@@ -66,7 +66,7 @@ In addition, the `doc2vec` folder contains two trained Doc2Vec models for the ab
 
 ## Code
 
-The `code_clean.ipynb` notebook contains cleaned and commented code for the machine learning models used in the project, including Logistic Regression, XgBoost, and MLP.
+The `code.ipynb` notebook contains cleaned and commented code for the machine learning models used in the project, including Logistic Regression, XgBoost, and MLP.
 
 ## Visualization
 
