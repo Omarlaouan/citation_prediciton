@@ -1,0 +1,12 @@
+# python==3.9
+tensorflow-macos
+tensorflow-metal
+matplotlib
+networkx
+numpy
+scikit-learn
+xgboost
+shap
+gensim
+nltk
+tqdm
